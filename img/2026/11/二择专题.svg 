@@ -1,0 +1,543 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="4608" viewBox="0 0 1536 4608">
+<defs>
+ <radialGradient id="bg" cx="50%" cy="13%" r="95%"><stop offset="0" stop-color="#1A2E45"/><stop offset="0.42" stop-color="#07192B"/><stop offset="1" stop-color="#040C16"/></radialGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFE8B0"/><stop offset="0.52" stop-color="#BD9562"/><stop offset="1" stop-color="#EAD9A2"/></linearGradient>
+ <linearGradient id="cool" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#83E7D4"/><stop offset="1" stop-color="#6397C7"/></linearGradient>
+ <linearGradient id="node" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#162B40"/><stop offset="1" stop-color="#0C1B2E"/></linearGradient>
+ <radialGradient id="gOrb"><stop offset="0" stop-color="#9B7950" stop-opacity=".7"/><stop offset="1" stop-color="#332916" stop-opacity=".08"/></radialGradient>
+ <radialGradient id="bOrb"><stop offset="0" stop-color="#3E8290" stop-opacity=".55"/><stop offset="1" stop-color="#19303A" stop-opacity=".05"/></radialGradient>
+ <filter id="glow" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="8"/></filter>
+ <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse"><path d="M64 0 L0 0 0 64" fill="none" stroke="#32536A" stroke-width="1" opacity=".18"/></pattern>
+</defs>
+<rect width="1536" height="4608" fill="url(#bg)"/>
+<rect width="1536" height="4608" fill="url(#grid)"/>
+
+<circle cx="1416" cy="379" r="2" fill="#9FD2DB" opacity="0.17"/>
+<circle cx="438" cy="3248" r="1" fill="#9FD2DB" opacity="0.48"/>
+<circle cx="622" cy="1239" r="2" fill="#9FD2DB" opacity="0.22"/>
+<circle cx="563" cy="3399" r="1" fill="#9FD2DB" opacity="0.47"/>
+<circle cx="250" cy="2691" r="1" fill="#9FD2DB" opacity="0.14"/>
+<circle cx="1294" cy="1676" r="1" fill="#9FD2DB" opacity="0.45"/>
+<circle cx="263" cy="4468" r="2" fill="#9FD2DB" opacity="0.27"/>
+<circle cx="180" cy="831" r="2" fill="#9FD2DB" opacity="0.14"/>
+<circle cx="1215" cy="3491" r="2" fill="#9FD2DB" opacity="0.28"/>
+<circle cx="642" cy="4139" r="1" fill="#9FD2DB" opacity="0.41"/>
+<circle cx="862" cy="1932" r="2" fill="#9FD2DB" opacity="0.33"/>
+<circle cx="250" cy="1723" r="2" fill="#9FD2DB" opacity="0.20"/>
+<circle cx="305" cy="4066" r="1" fill="#9FD2DB" opacity="0.32"/>
+<circle cx="968" cy="81" r="2" fill="#9FD2DB" opacity="0.45"/>
+<circle cx="1246" cy="1006" r="2" fill="#9FD2DB" opacity="0.30"/>
+<circle cx="1054" cy="4071" r="1" fill="#9FD2DB" opacity="0.28"/>
+<circle cx="1139" cy="1528" r="1" fill="#9FD2DB" opacity="0.22"/>
+<circle cx="83" cy="3842" r="2" fill="#9FD2DB" opacity="0.29"/>
+<circle cx="1414" cy="2178" r="1" fill="#9FD2DB" opacity="0.30"/>
+<circle cx="950" cy="3329" r="1" fill="#9FD2DB" opacity="0.39"/>
+<circle cx="974" cy="3618" r="1" fill="#9FD2DB" opacity="0.24"/>
+<circle cx="122" cy="658" r="1" fill="#9FD2DB" opacity="0.24"/>
+<circle cx="891" cy="854" r="2" fill="#9FD2DB" opacity="0.15"/>
+<circle cx="1065" cy="3721" r="3" fill="#9FD2DB" opacity="0.46"/>
+<circle cx="388" cy="3603" r="3" fill="#9FD2DB" opacity="0.23"/>
+<circle cx="204" cy="1060" r="1" fill="#9FD2DB" opacity="0.28"/>
+<circle cx="986" cy="944" r="1" fill="#9FD2DB" opacity="0.35"/>
+<circle cx="1430" cy="581" r="2" fill="#9FD2DB" opacity="0.36"/>
+<circle cx="1328" cy="1279" r="1" fill="#9FD2DB" opacity="0.44"/>
+<circle cx="1301" cy="2398" r="3" fill="#9FD2DB" opacity="0.46"/>
+<circle cx="1196" cy="4495" r="2" fill="#9FD2DB" opacity="0.25"/>
+<circle cx="548" cy="1750" r="1" fill="#9FD2DB" opacity="0.31"/>
+<circle cx="156" cy="226" r="1" fill="#9FD2DB" opacity="0.36"/>
+<circle cx="461" cy="550" r="1" fill="#9FD2DB" opacity="0.23"/>
+<circle cx="984" cy="4144" r="1" fill="#9FD2DB" opacity="0.48"/>
+<circle cx="1080" cy="2164" r="2" fill="#9FD2DB" opacity="0.44"/>
+<circle cx="656" cy="4356" r="1" fill="#9FD2DB" opacity="0.36"/>
+<circle cx="1195" cy="3541" r="2" fill="#9FD2DB" opacity="0.46"/>
+<circle cx="488" cy="1290" r="1" fill="#9FD2DB" opacity="0.29"/>
+<circle cx="267" cy="4227" r="2" fill="#9FD2DB" opacity="0.43"/>
+<circle cx="563" cy="3849" r="3" fill="#9FD2DB" opacity="0.26"/>
+<circle cx="694" cy="2725" r="1" fill="#9FD2DB" opacity="0.20"/>
+<circle cx="709" cy="800" r="3" fill="#9FD2DB" opacity="0.36"/>
+<circle cx="1113" cy="3709" r="2" fill="#9FD2DB" opacity="0.35"/>
+<circle cx="771" cy="792" r="1" fill="#9FD2DB" opacity="0.28"/>
+<circle cx="967" cy="3032" r="1" fill="#9FD2DB" opacity="0.23"/>
+<circle cx="591" cy="748" r="1" fill="#9FD2DB" opacity="0.27"/>
+<circle cx="378" cy="1381" r="2" fill="#9FD2DB" opacity="0.36"/>
+<circle cx="1165" cy="900" r="3" fill="#9FD2DB" opacity="0.34"/>
+<circle cx="216" cy="323" r="2" fill="#9FD2DB" opacity="0.28"/>
+<circle cx="1496" cy="1172" r="2" fill="#9FD2DB" opacity="0.24"/>
+<circle cx="1139" cy="4493" r="1" fill="#9FD2DB" opacity="0.23"/>
+<circle cx="333" cy="2071" r="1" fill="#9FD2DB" opacity="0.17"/>
+<circle cx="939" cy="1076" r="1" fill="#9FD2DB" opacity="0.37"/>
+<circle cx="666" cy="4507" r="2" fill="#9FD2DB" opacity="0.33"/>
+<circle cx="754" cy="871" r="3" fill="#9FD2DB" opacity="0.21"/>
+<circle cx="311" cy="2862" r="2" fill="#9FD2DB" opacity="0.45"/>
+<circle cx="482" cy="4572" r="2" fill="#9FD2DB" opacity="0.44"/>
+<circle cx="152" cy="3614" r="1" fill="#9FD2DB" opacity="0.47"/>
+<circle cx="1288" cy="547" r="2" fill="#9FD2DB" opacity="0.17"/>
+<circle cx="1096" cy="2326" r="2" fill="#9FD2DB" opacity="0.25"/>
+<circle cx="957" cy="432" r="2" fill="#9FD2DB" opacity="0.28"/>
+<circle cx="1210" cy="1871" r="3" fill="#9FD2DB" opacity="0.24"/>
+<circle cx="529" cy="868" r="2" fill="#9FD2DB" opacity="0.28"/>
+<circle cx="309" cy="4400" r="1" fill="#9FD2DB" opacity="0.18"/>
+<circle cx="411" cy="3936" r="1" fill="#9FD2DB" opacity="0.23"/>
+<circle cx="852" cy="3619" r="2" fill="#9FD2DB" opacity="0.15"/>
+<circle cx="1410" cy="41" r="3" fill="#9FD2DB" opacity="0.21"/>
+<circle cx="201" cy="2248" r="1" fill="#9FD2DB" opacity="0.30"/>
+<circle cx="1096" cy="3276" r="1" fill="#9FD2DB" opacity="0.47"/>
+<circle cx="896" cy="203" r="1" fill="#9FD2DB" opacity="0.16"/>
+<circle cx="904" cy="179" r="1" fill="#9FD2DB" opacity="0.34"/>
+<circle cx="1033" cy="2750" r="1" fill="#9FD2DB" opacity="0.24"/>
+<circle cx="174" cy="4484" r="1" fill="#9FD2DB" opacity="0.14"/>
+<circle cx="178" cy="424" r="3" fill="#9FD2DB" opacity="0.40"/>
+<circle cx="210" cy="4400" r="2" fill="#9FD2DB" opacity="0.15"/>
+<circle cx="102" cy="792" r="2" fill="#9FD2DB" opacity="0.37"/>
+<circle cx="665" cy="3076" r="1" fill="#9FD2DB" opacity="0.23"/>
+<circle cx="334" cy="1004" r="2" fill="#9FD2DB" opacity="0.15"/>
+<circle cx="773" cy="1498" r="1" fill="#9FD2DB" opacity="0.35"/>
+<circle cx="1031" cy="2908" r="1" fill="#9FD2DB" opacity="0.38"/>
+<circle cx="985" cy="900" r="2" fill="#9FD2DB" opacity="0.47"/>
+<circle cx="1208" cy="1735" r="1" fill="#9FD2DB" opacity="0.34"/>
+<circle cx="586" cy="3189" r="1" fill="#9FD2DB" opacity="0.14"/>
+<circle cx="1131" cy="4045" r="1" fill="#9FD2DB" opacity="0.14"/>
+<circle cx="1503" cy="4001" r="1" fill="#9FD2DB" opacity="0.36"/>
+<circle cx="392" cy="1542" r="1" fill="#9FD2DB" opacity="0.35"/>
+<circle cx="378" cy="4404" r="1" fill="#9FD2DB" opacity="0.41"/>
+<circle cx="414" cy="2083" r="1" fill="#9FD2DB" opacity="0.19"/>
+<circle cx="1028" cy="4364" r="2" fill="#9FD2DB" opacity="0.28"/>
+<circle cx="1129" cy="618" r="2" fill="#9FD2DB" opacity="0.31"/>
+<circle cx="740" cy="1575" r="1" fill="#9FD2DB" opacity="0.31"/>
+<circle cx="1322" cy="1610" r="1" fill="#9FD2DB" opacity="0.42"/>
+<circle cx="115" cy="2178" r="1" fill="#9FD2DB" opacity="0.42"/>
+<circle cx="901" cy="3860" r="1" fill="#9FD2DB" opacity="0.37"/>
+<circle cx="1456" cy="4418" r="1" fill="#9FD2DB" opacity="0.37"/>
+<circle cx="859" cy="4124" r="1" fill="#9FD2DB" opacity="0.43"/>
+<circle cx="1299" cy="3683" r="2" fill="#9FD2DB" opacity="0.22"/>
+<circle cx="1405" cy="2307" r="2" fill="#9FD2DB" opacity="0.45"/>
+<circle cx="824" cy="2608" r="1" fill="#9FD2DB" opacity="0.30"/>
+<circle cx="1149" cy="4418" r="2" fill="#9FD2DB" opacity="0.18"/>
+<circle cx="1467" cy="3239" r="2" fill="#9FD2DB" opacity="0.21"/>
+<circle cx="225" cy="690" r="1" fill="#9FD2DB" opacity="0.36"/>
+<circle cx="1011" cy="3275" r="1" fill="#9FD2DB" opacity="0.35"/>
+<circle cx="1085" cy="3980" r="1" fill="#9FD2DB" opacity="0.18"/>
+<circle cx="1153" cy="215" r="3" fill="#9FD2DB" opacity="0.30"/>
+<circle cx="713" cy="4016" r="2" fill="#9FD2DB" opacity="0.18"/>
+<circle cx="592" cy="1070" r="1" fill="#9FD2DB" opacity="0.42"/>
+<circle cx="656" cy="4283" r="2" fill="#9FD2DB" opacity="0.27"/>
+<circle cx="1290" cy="3308" r="2" fill="#9FD2DB" opacity="0.36"/>
+<circle cx="495" cy="4537" r="3" fill="#9FD2DB" opacity="0.20"/>
+<circle cx="370" cy="1577" r="1" fill="#9FD2DB" opacity="0.40"/>
+<circle cx="1400" cy="305" r="3" fill="#9FD2DB" opacity="0.23"/>
+<circle cx="182" cy="2901" r="2" fill="#9FD2DB" opacity="0.38"/>
+<circle cx="1018" cy="3055" r="2" fill="#9FD2DB" opacity="0.27"/>
+<circle cx="959" cy="3969" r="1" fill="#9FD2DB" opacity="0.15"/>
+<circle cx="1228" cy="2918" r="1" fill="#9FD2DB" opacity="0.18"/>
+<circle cx="620" cy="1264" r="1" fill="#9FD2DB" opacity="0.47"/>
+<circle cx="589" cy="4255" r="2" fill="#9FD2DB" opacity="0.30"/>
+<circle cx="401" cy="2712" r="1" fill="#9FD2DB" opacity="0.46"/>
+<circle cx="1057" cy="300" r="2" fill="#9FD2DB" opacity="0.29"/>
+<circle cx="596" cy="4222" r="3" fill="#9FD2DB" opacity="0.16"/>
+<circle cx="191" cy="2662" r="2" fill="#9FD2DB" opacity="0.14"/>
+<circle cx="302" cy="1767" r="1" fill="#9FD2DB" opacity="0.18"/>
+<circle cx="1298" cy="3338" r="2" fill="#9FD2DB" opacity="0.42"/>
+<circle cx="569" cy="2606" r="1" fill="#9FD2DB" opacity="0.32"/>
+<circle cx="1458" cy="4413" r="1" fill="#9FD2DB" opacity="0.42"/>
+<circle cx="1389" cy="251" r="1" fill="#9FD2DB" opacity="0.46"/>
+<circle cx="978" cy="1748" r="1" fill="#9FD2DB" opacity="0.44"/>
+<circle cx="1290" cy="2568" r="1" fill="#9FD2DB" opacity="0.26"/>
+<circle cx="293" cy="2623" r="2" fill="#9FD2DB" opacity="0.47"/>
+<circle cx="309" cy="1467" r="2" fill="#9FD2DB" opacity="0.17"/>
+<circle cx="935" cy="297" r="1" fill="#9FD2DB" opacity="0.25"/>
+<circle cx="1223" cy="2469" r="3" fill="#9FD2DB" opacity="0.44"/>
+<circle cx="562" cy="1169" r="2" fill="#9FD2DB" opacity="0.16"/>
+<circle cx="1294" cy="4168" r="1" fill="#9FD2DB" opacity="0.41"/>
+<circle cx="1410" cy="3452" r="1" fill="#9FD2DB" opacity="0.41"/>
+<circle cx="930" cy="1506" r="2" fill="#9FD2DB" opacity="0.29"/>
+<circle cx="727" cy="4112" r="1" fill="#9FD2DB" opacity="0.15"/>
+<circle cx="518" cy="3055" r="1" fill="#9FD2DB" opacity="0.26"/>
+<circle cx="171" cy="2029" r="2" fill="#9FD2DB" opacity="0.29"/>
+<circle cx="1253" cy="1249" r="1" fill="#9FD2DB" opacity="0.22"/>
+<circle cx="911" cy="3307" r="3" fill="#9FD2DB" opacity="0.40"/>
+<circle cx="919" cy="1374" r="1" fill="#9FD2DB" opacity="0.17"/>
+<circle cx="263" cy="1749" r="1" fill="#9FD2DB" opacity="0.40"/>
+<circle cx="345" cy="1200" r="2" fill="#9FD2DB" opacity="0.43"/>
+<circle cx="1118" cy="4071" r="1" fill="#9FD2DB" opacity="0.25"/>
+<circle cx="524" cy="1303" r="2" fill="#9FD2DB" opacity="0.30"/>
+<circle cx="1359" cy="145" r="2" fill="#9FD2DB" opacity="0.41"/>
+<circle cx="1309" cy="1082" r="2" fill="#9FD2DB" opacity="0.48"/>
+<circle cx="877" cy="4309" r="1" fill="#9FD2DB" opacity="0.32"/>
+<circle cx="217" cy="4217" r="1" fill="#9FD2DB" opacity="0.32"/>
+<circle cx="675" cy="4517" r="2" fill="#9FD2DB" opacity="0.25"/>
+<circle cx="1245" cy="2851" r="1" fill="#9FD2DB" opacity="0.45"/>
+<circle cx="522" cy="1610" r="3" fill="#9FD2DB" opacity="0.19"/>
+<circle cx="1134" cy="3609" r="1" fill="#9FD2DB" opacity="0.48"/>
+<circle cx="1303" cy="3937" r="2" fill="#9FD2DB" opacity="0.16"/>
+<circle cx="997" cy="3859" r="3" fill="#9FD2DB" opacity="0.48"/>
+<circle cx="1297" cy="1879" r="3" fill="#9FD2DB" opacity="0.46"/>
+<circle cx="252" cy="241" r="2" fill="#9FD2DB" opacity="0.22"/>
+<circle cx="1504" cy="4332" r="1" fill="#9FD2DB" opacity="0.36"/>
+<circle cx="784" cy="2969" r="1" fill="#9FD2DB" opacity="0.13"/>
+<circle cx="643" cy="1559" r="2" fill="#9FD2DB" opacity="0.34"/>
+<circle cx="670" cy="3772" r="3" fill="#9FD2DB" opacity="0.20"/>
+<circle cx="643" cy="1034" r="1" fill="#9FD2DB" opacity="0.29"/>
+<circle cx="1107" cy="3517" r="1" fill="#9FD2DB" opacity="0.26"/>
+<circle cx="1185" cy="1173" r="2" fill="#9FD2DB" opacity="0.39"/>
+<circle cx="1283" cy="3953" r="1" fill="#9FD2DB" opacity="0.30"/>
+<circle cx="77" cy="1384" r="2" fill="#9FD2DB" opacity="0.20"/>
+<circle cx="205" cy="3227" r="2" fill="#9FD2DB" opacity="0.28"/>
+<circle cx="764" cy="1529" r="1" fill="#9FD2DB" opacity="0.36"/>
+<circle cx="139" cy="2993" r="3" fill="#9FD2DB" opacity="0.41"/>
+<circle cx="1239" cy="4002" r="2" fill="#9FD2DB" opacity="0.26"/>
+<circle cx="240" cy="2459" r="1" fill="#9FD2DB" opacity="0.25"/>
+<circle cx="1471" cy="217" r="3" fill="#9FD2DB" opacity="0.29"/>
+<circle cx="792" cy="903" r="1" fill="#9FD2DB" opacity="0.42"/>
+<circle cx="648" cy="1176" r="1" fill="#9FD2DB" opacity="0.22"/>
+<circle cx="433" cy="2553" r="3" fill="#9FD2DB" opacity="0.17"/>
+<circle cx="265" cy="4540" r="2" fill="#9FD2DB" opacity="0.23"/>
+<circle cx="1114" cy="757" r="2" fill="#9FD2DB" opacity="0.30"/>
+<circle cx="1032" cy="193" r="1" fill="#9FD2DB" opacity="0.34"/>
+<circle cx="256" cy="1664" r="3" fill="#9FD2DB" opacity="0.40"/>
+<circle cx="1253" cy="2513" r="2" fill="#9FD2DB" opacity="0.47"/>
+<circle cx="1438" cy="3998" r="3" fill="#9FD2DB" opacity="0.16"/>
+<circle cx="418" cy="150" r="1" fill="#9FD2DB" opacity="0.32"/>
+<circle cx="323" cy="2552" r="1" fill="#9FD2DB" opacity="0.29"/>
+<circle cx="792" cy="4528" r="1" fill="#9FD2DB" opacity="0.25"/>
+<circle cx="457" cy="555" r="2" fill="#9FD2DB" opacity="0.29"/>
+<circle cx="910" cy="1184" r="1" fill="#9FD2DB" opacity="0.20"/>
+<circle cx="875" cy="1618" r="2" fill="#9FD2DB" opacity="0.29"/>
+<circle cx="1288" cy="3023" r="1" fill="#9FD2DB" opacity="0.27"/>
+<circle cx="1217" cy="1198" r="2" fill="#9FD2DB" opacity="0.24"/>
+<circle cx="271" cy="2708" r="1" fill="#9FD2DB" opacity="0.31"/>
+<circle cx="962" cy="1091" r="1" fill="#9FD2DB" opacity="0.44"/>
+<circle cx="430" cy="3236" r="2" fill="#9FD2DB" opacity="0.48"/>
+<rect x="26" y="28" width="1484" height="4550" rx="24" fill="none" stroke="#8A714F" stroke-width="2" opacity="0.8"/>
+<rect x="40" y="42" width="1456" height="4522" rx="17" fill="none" stroke="#2B5666" stroke-width="1" opacity="0.9"/>
+<circle cx="64" cy="65" r="9" fill="#CBA96A" stroke="#D9BE81" stroke-width="1" opacity="0.9"/>
+<circle cx="1472" cy="65" r="9" fill="#CBA96A" stroke="#D9BE81" stroke-width="1" opacity="0.9"/>
+<circle cx="64" cy="4558" r="9" fill="#CBA96A" stroke="#D9BE81" stroke-width="1" opacity="0.9"/>
+<circle cx="1472" cy="4558" r="9" fill="#CBA96A" stroke="#D9BE81" stroke-width="1" opacity="0.9"/>
+<circle cx="768" cy="362" r="266" fill="none" stroke="#547F91" stroke-width="2" opacity="0.2"/>
+<circle cx="768" cy="362" r="328" fill="none" stroke="#547F91" stroke-width="2" opacity="0.2"/>
+<circle cx="768" cy="362" r="394" fill="none" stroke="#547F91" stroke-width="2" opacity="0.2"/>
+<line x1="355" y1="90" x2="580" y2="90" stroke="#B79B6A" stroke-width="2" opacity="0.7"/>
+<line x1="952" y1="90" x2="1181" y2="90" stroke="#B79B6A" stroke-width="2" opacity="0.7"/>
+<text x="768" y="101" fill="#C8B17C" font-size="29" font-weight="600" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="3">《天牍》 · 主题正典  T19</text>
+<text x="768" y="225" fill="#F7E7BC" font-size="122" font-weight="800" font-family="Noto Serif CJK SC" text-anchor="middle" opacity="1" letter-spacing="13">二  择</text>
+<text x="768" y="295" fill="#BED6DF" font-size="29" font-weight="500" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">不是在两个答案中选择，而是选择因果的去向</text>
+<circle cx="448" cy="462" r="151" fill="url(#gOrb)" stroke="#D8AF69" stroke-width="3" opacity="0.88"/>
+<circle cx="1088" cy="462" r="151" fill="url(#bOrb)" stroke="#79C9D9" stroke-width="3" opacity="0.88"/>
+<circle cx="768" cy="464" r="73" fill="#15273B" stroke="#D5C191" stroke-width="4" opacity="1"/>
+<text x="448" y="449" fill="#F3D08D" font-size="59" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">缘起</text>
+<text x="448" y="507" fill="#E6C99F" font-size="23" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">条件延续 · 因果生成</text>
+<text x="768" y="480" fill="#F8E8C2" font-size="62" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">择</text>
+<text x="1088" y="449" fill="#8DE2DC" font-size="59" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">还灭</text>
+<text x="1088" y="507" fill="#BCE9E7" font-size="23" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">条件改变 · 未来转向</text>
+<line x1="615" y1="462" x2="686" y2="462" stroke="#CDBA91" stroke-width="3" opacity="0.9"/>
+<path d="M671.0,455.0 L686.0,462.0 L671.0,469.0" fill="none" stroke="#CDBA91" stroke-width="3" stroke-linejoin="round"/>
+<line x1="843" y1="462" x2="920" y2="462" stroke="#A2DBDD" stroke-width="3" opacity="0.9"/>
+<path d="M905.0,455.0 L920.0,462.0 L905.0,469.0" fill="none" stroke="#A2DBDD" stroke-width="3" stroke-linejoin="round"/>
+<text x="768" y="632" fill="#BCCEDB" font-size="24" font-weight="500" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">入口：领板后显性接入    ／    未领板也可能被真实事件拉入</text>
+<line x1="88" y1="705" x2="1448" y2="705" stroke="#254254" stroke-width="2" opacity="1"/>
+<circle cx="116" cy="737" r="23" fill="#17273A" stroke="#CDB67E" stroke-width="2" opacity="1"/>
+<text x="116" y="746" fill="#F0D29A" font-size="21" font-weight="800" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">01</text>
+<text x="157" y="748" fill="#F1E5C9" font-size="41" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">二择的内部结果链</text>
+<text x="1445" y="746" fill="#95B9C7" font-size="23" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="end" opacity="1" letter-spacing="0">六个结果位 · 不是六个独立玩法</text>
+<rect x="96" y="810" width="416" height="145" rx="20" fill="url(#node)" stroke="#D8C18B" stroke-width="2" opacity="1"/>
+<circle cx="142" cy="858" r="26" fill="#1C3448" stroke="#D8C18B" stroke-width="2" opacity="1"/>
+<text x="142" y="867" fill="#D8C18B" font-size="22" font-weight="750" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">01</text>
+<text x="188" y="868" fill="#F1F6F9" font-size="39" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">拾影</text>
+<text x="127" y="923" fill="#AFC8D6" font-size="23" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">生命史证据成为题源</text>
+<rect x="560" y="810" width="416" height="145" rx="20" fill="url(#node)" stroke="#D8C18B" stroke-width="2" opacity="1"/>
+<circle cx="606" cy="858" r="26" fill="#1C3448" stroke="#D8C18B" stroke-width="2" opacity="1"/>
+<text x="606" y="867" fill="#D8C18B" font-size="22" font-weight="750" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">02</text>
+<text x="652" y="868" fill="#F1F6F9" font-size="39" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">六径</text>
+<text x="591" y="923" fill="#AFC8D6" font-size="23" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">辨认题落入的根问题</text>
+<rect x="1024" y="810" width="416" height="145" rx="20" fill="url(#node)" stroke="#D8C18B" stroke-width="2" opacity="1"/>
+<circle cx="1070" cy="858" r="26" fill="#1C3448" stroke="#D8C18B" stroke-width="2" opacity="1"/>
+<text x="1070" y="867" fill="#D8C18B" font-size="22" font-weight="750" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">03</text>
+<text x="1116" y="868" fill="#F1F6F9" font-size="39" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">牍戏</text>
+<text x="1055" y="923" fill="#AFC8D6" font-size="23" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">考验在现实中真正发生</text>
+<rect x="96" y="983" width="416" height="145" rx="20" fill="url(#node)" stroke="#78D7C9" stroke-width="2" opacity="1"/>
+<circle cx="142" cy="1031" r="26" fill="#1C3448" stroke="#78D7C9" stroke-width="2" opacity="1"/>
+<text x="142" y="1040" fill="#78D7C9" font-size="22" font-weight="750" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">04</text>
+<text x="188" y="1041" fill="#F1F6F9" font-size="39" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">六应</text>
+<text x="127" y="1096" fill="#AFC8D6" font-size="23" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">观察主体的回应深度</text>
+<rect x="560" y="983" width="416" height="145" rx="20" fill="url(#node)" stroke="#EFD398" stroke-width="2" opacity="1"/>
+<circle cx="606" cy="1031" r="26" fill="#1C3448" stroke="#EFD398" stroke-width="2" opacity="1"/>
+<text x="606" y="1040" fill="#EFD398" font-size="22" font-weight="750" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">05</text>
+<text x="652" y="1041" fill="#F6EBCF" font-size="39" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">化种</text>
+<text x="591" y="1096" fill="#AFC8D6" font-size="23" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">有效确认 → 本花成种</text>
+<rect x="1024" y="983" width="416" height="145" rx="20" fill="url(#node)" stroke="#78D7C9" stroke-width="2" opacity="1"/>
+<circle cx="1070" cy="1031" r="26" fill="#1C3448" stroke="#78D7C9" stroke-width="2" opacity="1"/>
+<text x="1070" y="1040" fill="#78D7C9" font-size="22" font-weight="750" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">06</text>
+<text x="1116" y="1041" fill="#F1F6F9" font-size="39" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">生根</text>
+<text x="1055" y="1096" fill="#AFC8D6" font-size="23" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">后续持续影响 · 另行判断</text>
+<line x1="516" y1="880" x2="554" y2="880" stroke="#7895A8" stroke-width="3" opacity="0.9"/>
+<path d="M539.0,873.0 L554.0,880.0 L539.0,887.0" fill="none" stroke="#7895A8" stroke-width="3" stroke-linejoin="round"/>
+<line x1="980" y1="880" x2="1018" y2="880" stroke="#7895A8" stroke-width="3" opacity="0.9"/>
+<path d="M1003.0,873.0 L1018.0,880.0 L1003.0,887.0" fill="none" stroke="#7895A8" stroke-width="3" stroke-linejoin="round"/>
+<line x1="516" y1="1053" x2="554" y2="1053" stroke="#7895A8" stroke-width="3" opacity="0.9"/>
+<path d="M539.0,1046.0 L554.0,1053.0 L539.0,1060.0" fill="none" stroke="#7895A8" stroke-width="3" stroke-linejoin="round"/>
+<line x1="980" y1="1053" x2="1018" y2="1053" stroke="#7895A8" stroke-width="3" opacity="0.9"/>
+<path d="M1003.0,1046.0 L1018.0,1053.0 L1003.0,1060.0" fill="none" stroke="#7895A8" stroke-width="3" stroke-linejoin="round"/>
+<path d="M1232,957 C1232,981 1232,967 1232,974" stroke="#749AB0" fill="none" stroke-width="2"/>
+<text x="768" y="1180" fill="#E0CEAA" font-size="26" font-weight="500" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">主线：拾影取其真，六径立其题，牍戏使其发生，六应见其回应。</text>
+<line x1="88" y1="1235" x2="1448" y2="1235" stroke="#254254" stroke-width="2" opacity="1"/>
+<circle cx="116" cy="1267" r="23" fill="#17273A" stroke="#CDB67E" stroke-width="2" opacity="1"/>
+<text x="116" y="1276" fill="#F0D29A" font-size="21" font-weight="800" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">02</text>
+<text x="157" y="1278" fill="#F1E5C9" font-size="41" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">十二缘瞏</text>
+<text x="1445" y="1276" fill="#95B9C7" font-size="23" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="end" opacity="1" letter-spacing="0">因果循环 · 任一缘位皆可启事</text>
+<rect x="94" y="1330" width="426" height="130" rx="18" fill="#122439" stroke="#365A6E" stroke-width="2" opacity="1"/>
+<rect x="104" y="1342" width="70" height="105" rx="13" fill="#203E52" stroke="#315E70" stroke-width="1" opacity="1"/>
+<text x="139" y="1408" fill="#8CDAE4" font-size="28" font-weight="800" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">01</text>
+<text x="199" y="1390" fill="#F6E8C8" font-size="38" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">蔽</text>
+<text x="199" y="1429" fill="#AFC9D6" font-size="24" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">未看见、误认</text>
+<line x1="520" y1="1395" x2="552" y2="1395" stroke="#5D96A9" stroke-width="2" opacity="0.9"/>
+<path d="M537.0,1388.0 L552.0,1395.0 L537.0,1402.0" fill="none" stroke="#5D96A9" stroke-width="2" stroke-linejoin="round"/>
+<rect x="556" y="1330" width="426" height="130" rx="18" fill="#122439" stroke="#365A6E" stroke-width="2" opacity="1"/>
+<rect x="566" y="1342" width="70" height="105" rx="13" fill="#203E52" stroke="#315E70" stroke-width="1" opacity="1"/>
+<text x="601" y="1408" fill="#8CDAE4" font-size="28" font-weight="800" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">02</text>
+<text x="661" y="1390" fill="#F6E8C8" font-size="38" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">行</text>
+<text x="661" y="1429" fill="#AFC9D6" font-size="24" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">真实做过的事</text>
+<line x1="982" y1="1395" x2="1014" y2="1395" stroke="#5D96A9" stroke-width="2" opacity="0.9"/>
+<path d="M999.0,1388.0 L1014.0,1395.0 L999.0,1402.0" fill="none" stroke="#5D96A9" stroke-width="2" stroke-linejoin="round"/>
+<rect x="1018" y="1330" width="426" height="130" rx="18" fill="#122439" stroke="#365A6E" stroke-width="2" opacity="1"/>
+<rect x="1028" y="1342" width="70" height="105" rx="13" fill="#203E52" stroke="#315E70" stroke-width="1" opacity="1"/>
+<text x="1063" y="1408" fill="#8CDAE4" font-size="28" font-weight="800" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">03</text>
+<text x="1123" y="1390" fill="#F6E8C8" font-size="38" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">识</text>
+<text x="1123" y="1429" fill="#AFC9D6" font-size="24" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">形成辨认方式</text>
+<line x1="1450" y1="1460" x2="1450" y2="1474" stroke="#59849C" stroke-width="2" opacity="0.9"/>
+<path d="M1457.0,1459.0 L1450.0,1474.0 L1443.0,1459.0" fill="none" stroke="#59849C" stroke-width="2" stroke-linejoin="round"/>
+<rect x="94" y="1480" width="426" height="130" rx="18" fill="#122439" stroke="#365A6E" stroke-width="2" opacity="1"/>
+<rect x="104" y="1492" width="70" height="105" rx="13" fill="#203E52" stroke="#315E70" stroke-width="1" opacity="1"/>
+<text x="139" y="1558" fill="#8CDAE4" font-size="28" font-weight="800" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">04</text>
+<text x="199" y="1540" fill="#F6E8C8" font-size="38" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">形</text>
+<text x="199" y="1579" fill="#AFC9D6" font-size="24" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">身份、身体与处境</text>
+<line x1="520" y1="1545" x2="552" y2="1545" stroke="#5D96A9" stroke-width="2" opacity="0.9"/>
+<path d="M537.0,1538.0 L552.0,1545.0 L537.0,1552.0" fill="none" stroke="#5D96A9" stroke-width="2" stroke-linejoin="round"/>
+<rect x="556" y="1480" width="426" height="130" rx="18" fill="#122439" stroke="#365A6E" stroke-width="2" opacity="1"/>
+<rect x="566" y="1492" width="70" height="105" rx="13" fill="#203E52" stroke="#315E70" stroke-width="1" opacity="1"/>
+<text x="601" y="1558" fill="#8CDAE4" font-size="28" font-weight="800" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">05</text>
+<text x="661" y="1540" fill="#F6E8C8" font-size="38" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">门</text>
+<text x="661" y="1579" fill="#AFC9D6" font-size="24" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">世界触及的入口</text>
+<line x1="982" y1="1545" x2="1014" y2="1545" stroke="#5D96A9" stroke-width="2" opacity="0.9"/>
+<path d="M999.0,1538.0 L1014.0,1545.0 L999.0,1552.0" fill="none" stroke="#5D96A9" stroke-width="2" stroke-linejoin="round"/>
+<rect x="1018" y="1480" width="426" height="130" rx="18" fill="#122439" stroke="#365A6E" stroke-width="2" opacity="1"/>
+<rect x="1028" y="1492" width="70" height="105" rx="13" fill="#203E52" stroke="#315E70" stroke-width="1" opacity="1"/>
+<text x="1063" y="1558" fill="#8CDAE4" font-size="28" font-weight="800" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">06</text>
+<text x="1123" y="1540" fill="#F6E8C8" font-size="38" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">触</text>
+<text x="1123" y="1579" fill="#AFC9D6" font-size="24" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">与现实发生碰撞</text>
+<line x1="1450" y1="1610" x2="1450" y2="1624" stroke="#59849C" stroke-width="2" opacity="0.9"/>
+<path d="M1457.0,1609.0 L1450.0,1624.0 L1443.0,1609.0" fill="none" stroke="#59849C" stroke-width="2" stroke-linejoin="round"/>
+<rect x="94" y="1630" width="426" height="130" rx="18" fill="#122439" stroke="#365A6E" stroke-width="2" opacity="1"/>
+<rect x="104" y="1642" width="70" height="105" rx="13" fill="#203E52" stroke="#315E70" stroke-width="1" opacity="1"/>
+<text x="139" y="1708" fill="#8CDAE4" font-size="28" font-weight="800" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">07</text>
+<text x="199" y="1690" fill="#F6E8C8" font-size="38" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">受</text>
+<text x="199" y="1729" fill="#AFC9D6" font-size="24" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">碰撞留下的影响</text>
+<line x1="520" y1="1695" x2="552" y2="1695" stroke="#5D96A9" stroke-width="2" opacity="0.9"/>
+<path d="M537.0,1688.0 L552.0,1695.0 L537.0,1702.0" fill="none" stroke="#5D96A9" stroke-width="2" stroke-linejoin="round"/>
+<rect x="556" y="1630" width="426" height="130" rx="18" fill="#122439" stroke="#365A6E" stroke-width="2" opacity="1"/>
+<rect x="566" y="1642" width="70" height="105" rx="13" fill="#203E52" stroke="#315E70" stroke-width="1" opacity="1"/>
+<text x="601" y="1708" fill="#8CDAE4" font-size="28" font-weight="800" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">08</text>
+<text x="661" y="1690" fill="#F6E8C8" font-size="38" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">求</text>
+<text x="661" y="1729" fill="#AFC9D6" font-size="24" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">想得到、保住、追回</text>
+<line x1="982" y1="1695" x2="1014" y2="1695" stroke="#5D96A9" stroke-width="2" opacity="0.9"/>
+<path d="M999.0,1688.0 L1014.0,1695.0 L999.0,1702.0" fill="none" stroke="#5D96A9" stroke-width="2" stroke-linejoin="round"/>
+<rect x="1018" y="1630" width="426" height="130" rx="18" fill="#122439" stroke="#365A6E" stroke-width="2" opacity="1"/>
+<rect x="1028" y="1642" width="70" height="105" rx="13" fill="#203E52" stroke="#315E70" stroke-width="1" opacity="1"/>
+<text x="1063" y="1708" fill="#8CDAE4" font-size="28" font-weight="800" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">09</text>
+<text x="1123" y="1690" fill="#F6E8C8" font-size="38" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">执</text>
+<text x="1123" y="1729" fill="#AFC9D6" font-size="24" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">难以放开的东西</text>
+<line x1="1450" y1="1760" x2="1450" y2="1774" stroke="#59849C" stroke-width="2" opacity="0.9"/>
+<path d="M1457.0,1759.0 L1450.0,1774.0 L1443.0,1759.0" fill="none" stroke="#59849C" stroke-width="2" stroke-linejoin="round"/>
+<rect x="94" y="1780" width="426" height="130" rx="18" fill="#122439" stroke="#365A6E" stroke-width="2" opacity="1"/>
+<rect x="104" y="1792" width="70" height="105" rx="13" fill="#203E52" stroke="#315E70" stroke-width="1" opacity="1"/>
+<text x="139" y="1858" fill="#8CDAE4" font-size="28" font-weight="800" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">10</text>
+<text x="199" y="1840" fill="#F6E8C8" font-size="38" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">成</text>
+<text x="199" y="1879" fill="#AFC9D6" font-size="24" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">未来的条件成熟</text>
+<line x1="520" y1="1845" x2="552" y2="1845" stroke="#5D96A9" stroke-width="2" opacity="0.9"/>
+<path d="M537.0,1838.0 L552.0,1845.0 L537.0,1852.0" fill="none" stroke="#5D96A9" stroke-width="2" stroke-linejoin="round"/>
+<rect x="556" y="1780" width="426" height="130" rx="18" fill="#122439" stroke="#365A6E" stroke-width="2" opacity="1"/>
+<rect x="566" y="1792" width="70" height="105" rx="13" fill="#203E52" stroke="#315E70" stroke-width="1" opacity="1"/>
+<text x="601" y="1858" fill="#8CDAE4" font-size="28" font-weight="800" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">11</text>
+<text x="661" y="1840" fill="#F6E8C8" font-size="38" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">现</text>
+<text x="661" y="1879" fill="#AFC9D6" font-size="24" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">未来真正发生</text>
+<line x1="982" y1="1845" x2="1014" y2="1845" stroke="#5D96A9" stroke-width="2" opacity="0.9"/>
+<path d="M999.0,1838.0 L1014.0,1845.0 L999.0,1852.0" fill="none" stroke="#5D96A9" stroke-width="2" stroke-linejoin="round"/>
+<rect x="1018" y="1780" width="426" height="130" rx="18" fill="#122439" stroke="#365A6E" stroke-width="2" opacity="1"/>
+<rect x="1028" y="1792" width="70" height="105" rx="13" fill="#203E52" stroke="#315E70" stroke-width="1" opacity="1"/>
+<text x="1063" y="1858" fill="#8CDAE4" font-size="28" font-weight="800" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">12</text>
+<text x="1123" y="1840" fill="#F6E8C8" font-size="38" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">归</text>
+<text x="1123" y="1879" fill="#AFC9D6" font-size="24" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">结果沉淀成新历史</text>
+<rect x="96" y="1947" width="1344" height="73" rx="18" fill="#112538" stroke="#527487" stroke-width="1" opacity="1"/>
+<text x="768" y="1994" fill="#C9E0E6" font-size="24" font-weight="500" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">典型顺读：蔽 → 行 → 识 → 形 → 门 → 触 → 受 → 求 → 执 → 成 → 现 → 归 → 再成新缘</text>
+<text x="768" y="2047" fill="#E2CDA4" font-size="24" font-weight="500" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">十二缘位解释因果，不是固定剧情阶段，也不是十二牍刻。</text>
+<line x1="88" y1="2090" x2="1448" y2="2090" stroke="#254254" stroke-width="2" opacity="1"/>
+<circle cx="116" cy="2122" r="23" fill="#17273A" stroke="#CDB67E" stroke-width="2" opacity="1"/>
+<text x="116" y="2131" fill="#F0D29A" font-size="21" font-weight="800" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">03</text>
+<text x="157" y="2133" fill="#F1E5C9" font-size="41" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">六径 × 六应</text>
+<text x="1445" y="2131" fill="#95B9C7" font-size="23" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="end" opacity="1" letter-spacing="0">两套不同问题 · 不按数字一一对应</text>
+<rect x="96" y="2170" width="641" height="777" rx="19" fill="#0B2031" stroke="#A98557" stroke-width="2" opacity="1"/>
+<rect x="799" y="2170" width="641" height="777" rx="19" fill="#0B2031" stroke="#5B9B9B" stroke-width="2" opacity="1"/>
+<text x="417" y="2245" fill="#F0D59E" font-size="52" font-weight="800" font-family="Noto Serif CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">六径</text>
+<text x="417" y="2291" fill="#D2C0A0" font-size="25" font-weight="500" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">题是什么 · 六类根本问题</text>
+<text x="1120" y="2245" fill="#9AE5DA" font-size="52" font-weight="800" font-family="Noto Serif CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">六应</text>
+<text x="1120" y="2291" fill="#B8DDDA" font-size="25" font-weight="500" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">人怎样回应 · 六种深度</text>
+<rect x="128" y="2330" width="578" height="78" rx="13" fill="#1B2F42" stroke="#4E6271" stroke-width="1" opacity="1"/>
+<circle cx="180" cy="2369" r="24" fill="#3A2F2A" stroke="#BF9D67" stroke-width="1" opacity="1"/>
+<text x="180" y="2378" fill="#F6D79E" font-size="19" font-weight="700" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">01</text>
+<text x="221" y="2383" fill="#F3E5CE" font-size="31" font-weight="650" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">存殁</text>
+<rect x="828" y="2330" width="579" height="78" rx="13" fill="#17313D" stroke="#4B7B80" stroke-width="1" opacity="1"/>
+<circle cx="881" cy="2369" r="24" fill="#213C44" stroke="#7CBFBD" stroke-width="1" opacity="1"/>
+<text x="881" y="2378" fill="#A5E7E2" font-size="19" font-weight="700" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">01</text>
+<text x="923" y="2382" fill="#E4F4F2" font-size="29" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">二象</text>
+<text x="1375" y="2379" fill="#A9D4D2" font-size="21" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="end" opacity="1" letter-spacing="0">看见两端与代价</text>
+<rect x="128" y="2427" width="578" height="78" rx="13" fill="#1B2F42" stroke="#4E6271" stroke-width="1" opacity="1"/>
+<circle cx="180" cy="2466" r="24" fill="#3A2F2A" stroke="#BF9D67" stroke-width="1" opacity="1"/>
+<text x="180" y="2475" fill="#F6D79E" font-size="19" font-weight="700" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">02</text>
+<text x="221" y="2480" fill="#F3E5CE" font-size="31" font-weight="650" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">人己</text>
+<rect x="828" y="2427" width="579" height="78" rx="13" fill="#17313D" stroke="#4B7B80" stroke-width="1" opacity="1"/>
+<circle cx="881" cy="2466" r="24" fill="#213C44" stroke="#7CBFBD" stroke-width="1" opacity="1"/>
+<text x="881" y="2475" fill="#A5E7E2" font-size="19" font-weight="700" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">02</text>
+<text x="923" y="2479" fill="#E4F4F2" font-size="29" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">破执</text>
+<text x="1375" y="2476" fill="#A9D4D2" font-size="21" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="end" opacity="1" letter-spacing="0">识破题面框架</text>
+<rect x="128" y="2524" width="578" height="78" rx="13" fill="#1B2F42" stroke="#4E6271" stroke-width="1" opacity="1"/>
+<circle cx="180" cy="2563" r="24" fill="#3A2F2A" stroke="#BF9D67" stroke-width="1" opacity="1"/>
+<text x="180" y="2572" fill="#F6D79E" font-size="19" font-weight="700" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">03</text>
+<text x="221" y="2577" fill="#F3E5CE" font-size="31" font-weight="650" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">名实</text>
+<rect x="828" y="2524" width="579" height="78" rx="13" fill="#17313D" stroke="#4B7B80" stroke-width="1" opacity="1"/>
+<circle cx="881" cy="2563" r="24" fill="#213C44" stroke="#7CBFBD" stroke-width="1" opacity="1"/>
+<text x="881" y="2572" fill="#A5E7E2" font-size="19" font-weight="700" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">03</text>
+<text x="923" y="2576" fill="#E4F4F2" font-size="29" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">守中</text>
+<text x="1375" y="2573" fill="#A9D4D2" font-size="21" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="end" opacity="1" letter-spacing="0">仍愿承担选择</text>
+<rect x="128" y="2621" width="578" height="78" rx="13" fill="#1B2F42" stroke="#4E6271" stroke-width="1" opacity="1"/>
+<circle cx="180" cy="2660" r="24" fill="#3A2F2A" stroke="#BF9D67" stroke-width="1" opacity="1"/>
+<text x="180" y="2669" fill="#F6D79E" font-size="19" font-weight="700" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">04</text>
+<text x="221" y="2674" fill="#F3E5CE" font-size="31" font-weight="650" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">知行</text>
+<rect x="828" y="2621" width="579" height="78" rx="13" fill="#17313D" stroke="#4B7B80" stroke-width="1" opacity="1"/>
+<circle cx="881" cy="2660" r="24" fill="#213C44" stroke="#7CBFBD" stroke-width="1" opacity="1"/>
+<text x="881" y="2669" fill="#A5E7E2" font-size="19" font-weight="700" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">04</text>
+<text x="923" y="2673" fill="#E4F4F2" font-size="29" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">观复</text>
+<text x="1375" y="2670" fill="#A9D4D2" font-size="21" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="end" opacity="1" letter-spacing="0">看见反复的因果</text>
+<rect x="128" y="2718" width="578" height="78" rx="13" fill="#1B2F42" stroke="#4E6271" stroke-width="1" opacity="1"/>
+<circle cx="180" cy="2757" r="24" fill="#3A2F2A" stroke="#BF9D67" stroke-width="1" opacity="1"/>
+<text x="180" y="2766" fill="#F6D79E" font-size="19" font-weight="700" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">05</text>
+<text x="221" y="2771" fill="#F3E5CE" font-size="31" font-weight="650" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">往反</text>
+<rect x="828" y="2718" width="579" height="78" rx="13" fill="#17313D" stroke="#4B7B80" stroke-width="1" opacity="1"/>
+<circle cx="881" cy="2757" r="24" fill="#213C44" stroke="#7CBFBD" stroke-width="1" opacity="1"/>
+<text x="881" y="2766" fill="#A5E7E2" font-size="19" font-weight="700" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">05</text>
+<text x="923" y="2770" fill="#E4F4F2" font-size="29" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">诚明</text>
+<text x="1375" y="2767" fill="#A9D4D2" font-size="21" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="end" opacity="1" letter-spacing="0">正视真实的欲求</text>
+<rect x="128" y="2815" width="578" height="78" rx="13" fill="#1B2F42" stroke="#4E6271" stroke-width="1" opacity="1"/>
+<circle cx="180" cy="2854" r="24" fill="#3A2F2A" stroke="#BF9D67" stroke-width="1" opacity="1"/>
+<text x="180" y="2863" fill="#F6D79E" font-size="19" font-weight="700" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">06</text>
+<text x="221" y="2868" fill="#F3E5CE" font-size="31" font-weight="650" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">主客</text>
+<rect x="828" y="2815" width="579" height="78" rx="13" fill="#17313D" stroke="#4B7B80" stroke-width="1" opacity="1"/>
+<circle cx="881" cy="2854" r="24" fill="#213C44" stroke="#7CBFBD" stroke-width="1" opacity="1"/>
+<text x="881" y="2863" fill="#A5E7E2" font-size="19" font-weight="700" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">06</text>
+<text x="923" y="2867" fill="#E4F4F2" font-size="29" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">道岁</text>
+<text x="1375" y="2864" fill="#A9D4D2" font-size="21" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="end" opacity="1" letter-spacing="0">承认岁月中的改变</text>
+<text x="768" y="3019" fill="#E4CF9F" font-size="25" font-weight="500" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">六径只分类题目；六应不是评分表、关卡或必须走满的六级阶梯。</text>
+<line x1="88" y1="3080" x2="1448" y2="3080" stroke="#254254" stroke-width="2" opacity="1"/>
+<circle cx="116" cy="3112" r="23" fill="#17273A" stroke="#CDB67E" stroke-width="2" opacity="1"/>
+<text x="116" y="3121" fill="#F0D29A" font-size="21" font-weight="800" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">04</text>
+<text x="157" y="3123" fill="#F1E5C9" font-size="41" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">十二牍刻</text>
+<text x="1445" y="3121" fill="#95B9C7" font-size="23" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="end" opacity="1" letter-spacing="0">牍戏的逻辑位置 · 非十二章节</text>
+<rect x="98" y="3164" width="1341" height="90" rx="16" fill="#112537" stroke="#35586C" stroke-width="1" opacity="1"/>
+<rect x="114" y="3179" width="145" height="60" rx="12" fill="#28354A" stroke="#A98D65" stroke-width="1" opacity="1"/>
+<text x="186" y="3219" fill="#F7DEA6" font-size="29" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">起</text>
+<text x="289" y="3222" fill="#F1E7D2" font-size="27" font-weight="700" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">01 缘启</text>
+<line x1="498" y1="3209" x2="552" y2="3209" stroke="#7A9DB0" stroke-width="2" opacity="0.9"/>
+<path d="M537.0,3202.0 L552.0,3209.0 L537.0,3216.0" fill="none" stroke="#7A9DB0" stroke-width="2" stroke-linejoin="round"/>
+<text x="582" y="3222" fill="#C4E4E7" font-size="27" font-weight="700" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">02 影显</text>
+<text x="1399" y="3220" fill="#A6C3D0" font-size="23" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="end" opacity="1" letter-spacing="0">缘位起因进入牍戏 · 旧影与当下接通</text>
+<rect x="98" y="3265" width="1341" height="90" rx="16" fill="#112537" stroke="#35586C" stroke-width="1" opacity="1"/>
+<rect x="114" y="3280" width="145" height="60" rx="12" fill="#28354A" stroke="#A98D65" stroke-width="1" opacity="1"/>
+<text x="186" y="3320" fill="#F7DEA6" font-size="29" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">承</text>
+<text x="289" y="3323" fill="#F1E7D2" font-size="27" font-weight="700" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">03 势聚</text>
+<line x1="498" y1="3310" x2="552" y2="3310" stroke="#7A9DB0" stroke-width="2" opacity="0.9"/>
+<path d="M537.0,3303.0 L552.0,3310.0 L537.0,3317.0" fill="none" stroke="#7A9DB0" stroke-width="2" stroke-linejoin="round"/>
+<text x="582" y="3323" fill="#C4E4E7" font-size="27" font-weight="700" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">04 径现</text>
+<text x="1399" y="3321" fill="#A6C3D0" font-size="23" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="end" opacity="1" letter-spacing="0">人事利益形成压力 · 根问题进入现实</text>
+<rect x="98" y="3366" width="1341" height="90" rx="16" fill="#112537" stroke="#35586C" stroke-width="1" opacity="1"/>
+<rect x="114" y="3381" width="145" height="60" rx="12" fill="#28354A" stroke="#A98D65" stroke-width="1" opacity="1"/>
+<text x="186" y="3421" fill="#F7DEA6" font-size="29" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">转一</text>
+<text x="289" y="3424" fill="#F1E7D2" font-size="27" font-weight="700" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">05 仪分</text>
+<line x1="498" y1="3411" x2="552" y2="3411" stroke="#7A9DB0" stroke-width="2" opacity="0.9"/>
+<path d="M537.0,3404.0 L552.0,3411.0 L537.0,3418.0" fill="none" stroke="#7A9DB0" stroke-width="2" stroke-linejoin="round"/>
+<text x="582" y="3424" fill="#C4E4E7" font-size="27" font-weight="700" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">06 衡立</text>
+<text x="1399" y="3422" fill="#A6C3D0" font-size="23" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="end" opacity="1" letter-spacing="0">因果去向分流 · 各有理由与代价</text>
+<rect x="98" y="3467" width="1341" height="90" rx="16" fill="#112537" stroke="#35586C" stroke-width="1" opacity="1"/>
+<rect x="114" y="3482" width="145" height="60" rx="12" fill="#28354A" stroke="#A98D65" stroke-width="1" opacity="1"/>
+<text x="186" y="3522" fill="#F7DEA6" font-size="29" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">转二</text>
+<text x="289" y="3525" fill="#F1E7D2" font-size="27" font-weight="700" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">07 路裂</text>
+<line x1="498" y1="3512" x2="552" y2="3512" stroke="#7A9DB0" stroke-width="2" opacity="0.9"/>
+<path d="M537.0,3505.0 L552.0,3512.0 L537.0,3519.0" fill="none" stroke="#7A9DB0" stroke-width="2" stroke-linejoin="round"/>
+<text x="582" y="3525" fill="#C4E4E7" font-size="27" font-weight="700" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">08 无避</text>
+<text x="1399" y="3523" fill="#A6C3D0" font-size="23" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="end" opacity="1" letter-spacing="0">道路难以兼容 · 逃避也有后果</text>
+<rect x="98" y="3568" width="1341" height="90" rx="16" fill="#112537" stroke="#35586C" stroke-width="1" opacity="1"/>
+<rect x="114" y="3583" width="145" height="60" rx="12" fill="#28354A" stroke="#A98D65" stroke-width="1" opacity="1"/>
+<text x="186" y="3623" fill="#F7DEA6" font-size="29" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">合</text>
+<text x="289" y="3626" fill="#F1E7D2" font-size="27" font-weight="700" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">09 择落</text>
+<line x1="498" y1="3613" x2="552" y2="3613" stroke="#7A9DB0" stroke-width="2" opacity="0.9"/>
+<path d="M537.0,3606.0 L552.0,3613.0 L537.0,3620.0" fill="none" stroke="#7A9DB0" stroke-width="2" stroke-linejoin="round"/>
+<text x="582" y="3626" fill="#C4E4E7" font-size="27" font-weight="700" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">10 责成</text>
+<text x="1399" y="3624" fill="#A6C3D0" font-size="23" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="end" opacity="1" letter-spacing="0">主体真实回应 · 责任不可代领</text>
+<rect x="98" y="3669" width="1341" height="90" rx="16" fill="#112537" stroke="#35586C" stroke-width="1" opacity="1"/>
+<rect x="114" y="3684" width="145" height="60" rx="12" fill="#28354A" stroke="#A98D65" stroke-width="1" opacity="1"/>
+<text x="186" y="3724" fill="#F7DEA6" font-size="29" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">余</text>
+<text x="289" y="3727" fill="#F1E7D2" font-size="27" font-weight="700" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">11 痕留</text>
+<line x1="498" y1="3714" x2="552" y2="3714" stroke="#7A9DB0" stroke-width="2" opacity="0.9"/>
+<path d="M537.0,3707.0 L552.0,3714.0 L537.0,3721.0" fill="none" stroke="#7A9DB0" stroke-width="2" stroke-linejoin="round"/>
+<text x="582" y="3727" fill="#C4E4E7" font-size="27" font-weight="700" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">12 瞏归</text>
+<text x="1399" y="3725" fill="#A6C3D0" font-size="23" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="end" opacity="1" letter-spacing="0">留下真实痕迹 · 归入新生命因果</text>
+<text x="768" y="3795" fill="#D2C7B3" font-size="24" font-weight="500" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">十二缘瞏解释「为什么」；十二牍刻记录「推进到哪里」。两者不得混同。</text>
+<line x1="88" y1="3842" x2="1448" y2="3842" stroke="#254254" stroke-width="2" opacity="1"/>
+<circle cx="116" cy="3874" r="23" fill="#17273A" stroke="#CDB67E" stroke-width="2" opacity="1"/>
+<text x="116" y="3883" fill="#F0D29A" font-size="21" font-weight="800" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">05</text>
+<text x="157" y="3885" fill="#F1E5C9" font-size="41" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">完成态：确认即化种，后效方生根</text>
+<text x="1445" y="3883" fill="#95B9C7" font-size="23" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="end" opacity="1" letter-spacing="0">先成种 · 再判断是否扎根</text>
+<rect x="98" y="3920" width="412" height="200" rx="19" fill="#13283C" stroke="#A4C8DA" stroke-width="2" opacity="1"/>
+<circle cx="137" cy="3966" r="16" fill="#A4C8DA" stroke="#A4C8DA" stroke-width="1" opacity="1"/>
+<text x="178" y="3983" fill="#F4E9D5" font-size="32" font-weight="750" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">主体真实决定</text>
+<text x="126" y="4046" fill="#BDD0D9" font-size="22" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">行动、不行动、拒绝、另开路径</text>
+<text x="126" y="4086" fill="#A4C8DA" font-size="22" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">本人选择 · 无法代答</text>
+<rect x="562" y="3920" width="412" height="200" rx="19" fill="#13283C" stroke="#EFD299" stroke-width="2" opacity="1"/>
+<circle cx="601" cy="3966" r="16" fill="#EFD299" stroke="#EFD299" stroke-width="1" opacity="1"/>
+<text x="642" y="3983" fill="#F4E9D5" font-size="32" font-weight="750" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">有效确认＝化种</text>
+<text x="590" y="4046" fill="#BDD0D9" font-size="22" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">本花正式成种 · 写入责任史</text>
+<text x="590" y="4086" fill="#EFD299" font-size="22" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">无需先有长期后效</text>
+<rect x="1026" y="3920" width="412" height="200" rx="19" fill="#13283C" stroke="#9DD8CC" stroke-width="2" opacity="1"/>
+<circle cx="1065" cy="3966" r="16" fill="#9DD8CC" stroke="#9DD8CC" stroke-width="1" opacity="1"/>
+<text x="1106" y="3983" fill="#F4E9D5" font-size="32" font-weight="750" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">生根另判</text>
+<text x="1054" y="4046" fill="#BDD0D9" font-size="22" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">决定在此后持续影响生命</text>
+<text x="1054" y="4086" fill="#9DD8CC" font-size="22" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">可迟至多年 · 也可能未发生</text>
+<line x1="516" y1="4020" x2="556" y2="4020" stroke="#91AAB6" stroke-width="3" opacity="0.9"/>
+<path d="M541.0,4013.0 L556.0,4020.0 L541.0,4027.0" fill="none" stroke="#91AAB6" stroke-width="3" stroke-linejoin="round"/>
+<line x1="980" y1="4020" x2="1020" y2="4020" stroke="#91AAB6" stroke-width="3" opacity="0.9"/>
+<path d="M1005.0,4013.0 L1020.0,4020.0 L1005.0,4027.0" fill="none" stroke="#91AAB6" stroke-width="3" stroke-linejoin="round"/>
+<rect x="100" y="4144" width="1336" height="78" rx="16" fill="#14263A" stroke="#677E88" stroke-width="1" opacity="1"/>
+<text x="768" y="4180" fill="#D6D9D3" font-size="23" font-weight="500" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">不知情也能化种；未生根不否定已化种；后来的改变不抹除当年的选择与责任。</text>
+<line x1="88" y1="4246" x2="1448" y2="4246" stroke="#254254" stroke-width="2" opacity="1"/>
+<circle cx="116" cy="4278" r="23" fill="#17273A" stroke="#CDB67E" stroke-width="2" opacity="1"/>
+<text x="116" y="4287" fill="#F0D29A" font-size="21" font-weight="800" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">06</text>
+<text x="157" y="4289" fill="#F1E5C9" font-size="41" font-weight="700" font-family="Noto Serif CJK SC" text-anchor="start" opacity="1" letter-spacing="0">关键边界</text>
+<text x="1445" y="4287" fill="#95B9C7" font-size="23" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="end" opacity="1" letter-spacing="0">防止误读 · 保持正典主权</text>
+<rect x="98" y="4325" width="650" height="58" rx="11" fill="#182538" stroke="#53667A" stroke-width="1" opacity="1"/>
+<circle cx="126" cy="4354" r="10" fill="#C18B7C" stroke="#C18B7C" stroke-width="1" opacity="1"/>
+<text x="151" y="4364" fill="#DDE8F0" font-size="25" font-weight="500" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">二择 ≠ 固定二选一按钮</text>
+<rect x="784" y="4325" width="650" height="58" rx="11" fill="#182538" stroke="#53667A" stroke-width="1" opacity="1"/>
+<circle cx="812" cy="4354" r="10" fill="#C18B7C" stroke="#C18B7C" stroke-width="1" opacity="1"/>
+<text x="837" y="4364" fill="#DDE8F0" font-size="25" font-weight="500" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">十二缘位 ≠ 十二牍刻</text>
+<rect x="98" y="4394" width="650" height="58" rx="11" fill="#182538" stroke="#53667A" stroke-width="1" opacity="1"/>
+<circle cx="126" cy="4423" r="10" fill="#C18B7C" stroke="#C18B7C" stroke-width="1" opacity="1"/>
+<text x="151" y="4433" fill="#DDE8F0" font-size="25" font-weight="500" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">六径 ≠ 六应</text>
+<rect x="784" y="4394" width="650" height="58" rx="11" fill="#182538" stroke="#53667A" stroke-width="1" opacity="1"/>
+<circle cx="812" cy="4423" r="10" fill="#C18B7C" stroke="#C18B7C" stroke-width="1" opacity="1"/>
+<text x="837" y="4433" fill="#DDE8F0" font-size="25" font-weight="500" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">拾影 ≠ 读心</text>
+<rect x="98" y="4463" width="650" height="58" rx="11" fill="#182538" stroke="#53667A" stroke-width="1" opacity="1"/>
+<circle cx="126" cy="4492" r="10" fill="#C18B7C" stroke="#C18B7C" stroke-width="1" opacity="1"/>
+<text x="151" y="4502" fill="#DDE8F0" font-size="25" font-weight="500" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">牍戏 ≠ 二择专属</text>
+<rect x="784" y="4463" width="650" height="58" rx="11" fill="#182538" stroke="#53667A" stroke-width="1" opacity="1"/>
+<circle cx="812" cy="4492" r="10" fill="#C18B7C" stroke="#C18B7C" stroke-width="1" opacity="1"/>
+<text x="837" y="4502" fill="#DDE8F0" font-size="25" font-weight="500" font-family="Noto Sans CJK SC" text-anchor="start" opacity="1" letter-spacing="0">化种 ≠ 生根</text>
+<line x1="106" y1="4543" x2="1430" y2="4543" stroke="#5F7285" stroke-width="1" opacity="0.7"/>
+<text x="768" y="4582" fill="#8FA8B6" font-size="21" font-weight="400" font-family="Noto Sans CJK SC" text-anchor="middle" opacity="1" letter-spacing="0">依据：《二择》主题正典 · 版本 1.3.5 · 当前有效专题定义</text>
+</svg>
