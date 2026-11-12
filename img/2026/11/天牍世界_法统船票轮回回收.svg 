@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="860" viewBox="0 0 1600 860" role="img" aria-label="法统船票：神祇的牍学烙印由神徒灵识跨轮回和盘涉携带，再世神祇与神徒自立之间存在回收竞争">
+<defs><linearGradient id="bg2" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#11182C"/><stop offset="1" stop-color="#091B24"/></linearGradient><linearGradient id="hl" x1="0" x2="1"><stop stop-color="#8EA4F2"/><stop offset="1" stop-color="#74C5B3"/></linearGradient><marker id="end" markerWidth="12" markerHeight="12" refX="9" refY="6" orient="auto"><path d="M1 1L10 6L1 11" fill="none" stroke="#B2C2DC" stroke-width="2"/></marker><style>text{font-family:'Noto Sans CJK SC','Microsoft YaHei','PingFang SC',sans-serif;fill:#F3F5FF} .sub{fill:#ADBED3;font-size:19px} .med{font-size:23px;font-weight:600} .tiny{font-size:16px;fill:#A5B5CA}</style></defs>
+<rect width="1600" height="860" fill="url(#bg2)"/>
+<text x="60" y="65" font-size="39" font-weight="700">法统船票：神与神徒的跨劫知识竞争</text>
+<text x="62" y="101" class="sub">灵识与神性牍学残印延续；回收不是所有权保证，更不是神祇数据备份</text>
+<g fill="#16263D" stroke="#7187A9" stroke-width="2.4">
+ <rect x="68" y="179" width="327" height="154" rx="24"/>
+ <rect x="463" y="179" width="331" height="154" rx="24"/>
+ <rect x="862" y="179" width="331" height="154" rx="24"/>
+ <rect x="1255" y="179" width="275" height="154" rx="24"/>
+</g>
+<g text-anchor="middle">
+ <text x="231" y="233" class="med">前世神祇</text><text x="231" y="270" class="sub">神文是神祇存在的一部分</text><text x="231" y="300" class="tiny">含可传播的牍学知识</text>
+ <text x="629" y="233" class="med">神徒学习与信仰</text><text x="629" y="270" class="sub">神性烙印深植灵识</text><text x="629" y="300" class="tiny">从学者到信徒、狂信徒</text>
+ <text x="1027" y="233" class="med">灵识轮回</text><text x="1027" y="270" class="sub">普通知识释放／淡化</text><text x="1027" y="300" class="tiny">神祇牍学残印难一次清空</text>
+ <text x="1392" y="233" class="med">祖宇宙盘涉</text><text x="1392" y="270" class="sub">物质结构重置</text><text x="1392" y="300" class="tiny">灵识延续为作者新前提</text>
+</g>
+<g stroke="#B2C2DC" stroke-width="3" fill="none" marker-end="url(#end)"><path d="M402 256H447"/><path d="M801 256H847"/><path d="M1200 256H1240"/></g>
+<path d="M1392 351V420H769" stroke="url(#hl)" stroke-width="3.5" fill="none" stroke-dasharray="9 6" marker-end="url(#end)"/>
+<rect x="506" y="398" width="260" height="78" rx="19" fill="#264451" stroke="#8DDAC9" stroke-width="2"/>
+<text x="636" y="435" text-anchor="middle" class="med">新宇宙转生者</text><text x="636" y="459" text-anchor="middle" class="tiny">携带旧牍学；拥有自身意志</text>
+<path d="M636 482V545M636 545H315M636 545H997M315 545V583M997 545V583" stroke="#B8CDE0" stroke-width="3" fill="none" marker-end="url(#end)"/>
+<rect x="79" y="586" width="472" height="147" rx="22" fill="#133A34" stroke="#65CBB1" stroke-width="2.5"/>
+<rect x="776" y="586" width="475" height="147" rx="22" fill="#43263D" stroke="#E89BB7" stroke-width="2.5"/>
+<text x="315" y="631" text-anchor="middle" class="med">路径甲：传播旧法统</text><text x="315" y="665" text-anchor="middle" class="sub">旧神再世成功回收部分神识</text><text x="315" y="698" text-anchor="middle" class="tiny">越早降生并完成修炼，越可能接近旧高度</text>
+<text x="1014" y="631" text-anchor="middle" class="med">路径乙：携牍者自立成神</text><text x="1014" y="665" text-anchor="middle" class="sub">将前世神识／知识化为己有</text><text x="1014" y="698" text-anchor="middle" class="tiny">旧神失去可回收部分；可能出现新法统</text>
+<rect x="1270" y="576" width="255" height="170" rx="21" fill="#162438" stroke="#E6C38A" stroke-width="2"/>
+<text x="1397" y="620" text-anchor="middle" class="med">竞争因素</text><text x="1397" y="657" text-anchor="middle" class="tiny">降生先后　修炼速度</text><text x="1397" y="687" text-anchor="middle" class="tiny">信徒认知　传播时机</text><text x="1397" y="717" text-anchor="middle" class="tiny">法统分裂　灵识选择</text>
+<text x="65" y="808" class="sub">核心悖论：神祇需要信徒保存前世高度；信徒的灵识越强，也越可能成为未来的神。</text>
+<text x="65" y="837" class="tiny">原创研究候选｜不表示盘涉本体、真名、幂奘和上位神阶的现行定义已被改写</text>
+</svg>
