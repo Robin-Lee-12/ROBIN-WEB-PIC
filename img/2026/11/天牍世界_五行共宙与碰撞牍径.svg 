@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="960" viewBox="0 0 1600 960" role="img" aria-label="五显宙不可具身物理穿越，五者共成隐合太灭玄眼，完整泡宇宙碰撞产生牍径；窄门是通行条件关卡">
+<defs>
+ <radialGradient id="bg"><stop stop-color="#13213A"/><stop offset="1" stop-color="#070C16"/></radialGradient>
+ <linearGradient id="shell"><stop stop-color="#67B9F9"/><stop offset=".52" stop-color="#BCA8FD"/><stop offset="1" stop-color="#4FD6C9"/></linearGradient>
+ <linearGradient id="b"><stop stop-color="#FEC789"/><stop offset="1" stop-color="#FD7588"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="8"/></filter>
+ <marker id="arr" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M1 2L10 6L1 10" fill="none" stroke="#9AB9C8" stroke-width="1.6"/></marker>
+ <style>text{font-family:'Noto Sans CJK SC','Microsoft YaHei','PingFang SC',sans-serif;fill:#F1F5FF} .muted{fill:#A9B7CE} .small{font-size:20px} .tiny{font-size:17px} .head{font-weight:700;font-size:28px} .label{font-weight:600;font-size:23px}</style>
+</defs>
+<rect width="1600" height="960" fill="url(#bg)"/>
+<g opacity=".4" fill="#D5E7FA"><circle cx="104" cy="186" r="2"/><circle cx="1385" cy="143" r="2"/><circle cx="1510" cy="652" r="2"/><circle cx="846" cy="132" r="2"/><circle cx="935" cy="731" r="2"/><circle cx="1063" cy="832" r="2"/></g>
+<text x="74" y="76" font-size="40" font-weight="700" fill="#FFFFFF">五显牍宙 · 一隐成眼</text>
+<text x="75" y="118" class="small muted">完整泡宇宙是五个独立显宙的整体生克关系；连接纹理不是物质通道</text>
+<ellipse cx="516" cy="457" rx="461" ry="328" stroke="url(#shell)" stroke-opacity=".37" stroke-width="21" fill="none" filter="url(#glow)"/>
+<ellipse cx="516" cy="457" rx="461" ry="328" stroke="url(#shell)" stroke-width="3" stroke-dasharray="15 9" fill="#1F3251" fill-opacity=".17"/>
+<path d="M 303 350 Q 469 200 713 297 Q 800 468 683 628 Q 423 724 274 551 Q 222 430 303 350Z" stroke="#86BCD7" stroke-width="2.4" stroke-dasharray="8 13" fill="none" opacity=".58"/>
+<g fill="none" stroke-width="3" opacity=".64" marker-end="url(#arr)">
+ <path stroke="#7AA9DC" d="M 329 330Q414 260 458 260"/>
+ <path stroke="#7AA9DC" d="M 577 267Q630 266 697 335"/>
+ <path stroke="#7AA9DC" d="M 751 438Q735 499 682 552"/>
+ <path stroke="#7AA9DC" d="M 568 622Q473 672 398 619"/>
+ <path stroke="#7AA9DC" d="M 295 558Q212 457 266 385"/>
+</g>
+<g>
+ <circle cx="287" cy="330" r="87" fill="#DB9B80" fill-opacity=".13" stroke="#DBA18C" stroke-width="3"/>
+ <text x="287" y="327" text-anchor="middle" class="head">身宙</text><text x="287" y="358" text-anchor="middle" class="tiny muted">化生道</text>
+ <circle cx="520" cy="247" r="87" fill="#AF9DDF" fill-opacity=".13" stroke="#BCA7EA" stroke-width="3"/>
+ <text x="520" y="244" text-anchor="middle" class="head">心宙</text><text x="520" y="274" text-anchor="middle" class="tiny muted">共感道</text>
+ <circle cx="763" cy="370" r="87" fill="#8FC5DA" fill-opacity=".13" stroke="#86CDE3" stroke-width="3"/>
+ <text x="763" y="368" text-anchor="middle" class="head">名宙</text><text x="763" y="398" text-anchor="middle" class="tiny muted">铭契道</text>
+ <circle cx="635" cy="617" r="87" fill="#D9B677" fill-opacity=".13" stroke="#E0BC73" stroke-width="3"/>
+ <text x="635" y="614" text-anchor="middle" class="head">器宙</text><text x="635" y="645" text-anchor="middle" class="tiny muted">造化道</text>
+ <circle cx="340" cy="578" r="87" fill="#8FC9A7" fill-opacity=".13" stroke="#8FE1C0" stroke-width="3"/>
+ <text x="340" y="575" text-anchor="middle" class="head">我宙</text><text x="340" y="605" text-anchor="middle" class="tiny muted">自证道</text>
+</g>
+<rect x="300" y="425" width="430" height="72" rx="20" fill="#0E1B2C" fill-opacity=".9" stroke="#546C89"/>
+<text x="515" y="457" text-anchor="middle" class="label">隐合缘宙 · 孵化后太灭玄眼</text>
+<text x="515" y="481" text-anchor="middle" class="tiny muted">整体关系，无第六实体空间</text>
+<text x="516" y="814" text-anchor="middle" class="small" fill="#C8E8FD">五显宙的壁膜不可具身穿越</text>
+<text x="516" y="845" text-anchor="middle" class="tiny muted">相互生克表示统合作用，不表示有可通行的隧道</text>
+<circle cx="1308" cy="455" r="235" fill="#5C283E" fill-opacity=".11" stroke="#FF98A0" stroke-opacity=".28" stroke-width="19" filter="url(#glow)"/>
+<circle cx="1308" cy="455" r="235" fill="#5C283E" fill-opacity=".10" stroke="#FA9B9F" stroke-width="3" stroke-dasharray="15 9"/>
+<circle cx="1308" cy="455" r="135" fill="url(#b)" fill-opacity=".10" stroke="#D8A6AF" stroke-opacity=".6" stroke-width="2"/>
+<text x="1308" y="430" text-anchor="middle" class="head">另一完整泡宇宙</text>
+<text x="1308" y="462" text-anchor="middle" class="small muted">独立神褓／成熟玄眼系</text>
+<text x="1308" y="494" text-anchor="middle" class="small muted">仅作结构示意</text>
+<path d="M969 430 Q1027 406 1074 432" fill="none" stroke="#F3F0DC" stroke-opacity=".55" stroke-width="26" filter="url(#glow)"/>
+<path d="M969 430 Q1027 406 1074 432" fill="none" stroke="#FBE8B1" stroke-width="5" stroke-dasharray="10 8"/>
+<circle cx="1024" cy="420" r="27" fill="#081522" stroke="#F3DF91" stroke-width="3"/>
+<text x="1024" y="426" text-anchor="middle" font-size="18" fill="#FFFFFF">关</text>
+<path d="M1024 453L1024 602" stroke="#EADBAE" stroke-width="2" stroke-dasharray="5 6"/>
+<rect x="919" y="611" width="229" height="114" rx="19" fill="#172B37" stroke="#A9A38B"/>
+<text x="1034" y="649" text-anchor="middle" class="label">破壁牍径</text>
+<text x="1034" y="683" text-anchor="middle" class="small muted">窄门：条件性关卡</text>
+<text x="1034" y="710" text-anchor="middle" class="tiny muted">特定事物可行，非任意穿越</text>
+<line x1="95" y1="904" x2="1510" y2="904" stroke="#566A86" opacity=".6"/>
+<text x="95" y="936" class="tiny muted">研究示意｜非正典　·　「玄眼／神褓」生命周期与泡撞机制须由上位宇宙正典确认</text>
+</svg>
